@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-tgasdrfgdfghafed1
-=======
-tgasdrfgdfghafed1
-slmfalfoafn
-qe3ywrretakjjtyrs>>>>>>> 134851e (update readme)
+# Лабораторна робота 1 "Git та HTTP сервер"
+
+Виконали: студенти групи ІМ-33 Попов Владислав та Бондар Ярослав
