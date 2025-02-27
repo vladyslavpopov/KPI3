@@ -9,8 +9,6 @@ import (
 type TimeResponse struct {
   Time string `json:"time"`
 }
-<<<<<<< HEAD
-=======
 
 func timeHandler(w http.ResponseWriter, r *http.Request) {
   response := TimeResponse{Time: time.Now().Format(time.RFC3339)}
@@ -22,4 +20,3 @@ func main() {
   http.HandleFunc("/time", timeHandler)
   http.ListenAndServe(":8795", nil)
 }
->>>>>>> ee39c63 (Update main.go)
